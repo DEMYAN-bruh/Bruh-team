@@ -34,7 +34,7 @@ Le projet est actuellement en phase de conception. Les fonctionnalités prévues
 ## Documentation
 
 - Confluence : [https://efrei-team-ojo8c608.atlassian.net/jira/software/projects/BT/boards/2/backlog?epics=visible]
-- Backlog Jira : [Lien à compléter]
+- Backlog Jira : [https://efrei-team-ojo8c608.atlassian.net/wiki/spaces/BRU/pages/edit-v2/14057581]
 
 ### Diagrammes UML
 
